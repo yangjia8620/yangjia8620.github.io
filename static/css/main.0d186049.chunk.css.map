@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KAEE,eACF,CAGA,qBACE,gBACF","file":"main.0d186049.chunk.css","sourcesContent":["html {\n  /* 本项目使用rem为单位，浏览器默认大小为16px 62.5%换算下来为10px */\n  font-size: 62.5%;\n}\n/* 1vh等于百分之一的视口高度 100vh等于全部视口高度 */\n/* 100vh表示的是撑满整个视口 */\nhtml body #root .App {\n  min-height: 100vh;\n}"]}
